@@ -13,6 +13,7 @@
  * 
  * Las variables que no pueden ser reasignadas, es decir, su valor no cambia (constantes), se declaran:
  * ? const nombreVariable = valor;
+ * En las constantes se guardan los resultados de las funciones
 */
 
 let nombre = "Mireya"; //Tipo String
